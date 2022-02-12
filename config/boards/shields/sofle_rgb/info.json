@@ -1,0 +1,86 @@
+{
+  "layouts": {
+    "LAYOUT": {
+      "layout": [
+        { "label": "ESC", "row": 0, "col": 0, "x": 0, "y": 0.5 },
+        { "label": "1", "row": 0, "col": 1, "x": 1, "y": 0.5 },
+        { "label": "2", "row": 0, "col": 2, "x": 2, "y": 0.2 },
+        { "label": "3", "row": 0, "col": 3, "x": 3, "y": 0 },
+        { "label": "4", "row": 0, "col": 4, "x": 4, "y": 0.2 },
+        { "label": "5", "row": 0, "col": 5, "x": 5, "y": 0.25 },
+        
+        { "label": "6", "row": 0, "col": 6, "x": 9, "y": 0.25 },
+        { "label": "7", "row": 0, "col": 7, "x": 10, "y": 0.25 },
+        { "label": "8", "row": 0, "col": 8, "x": 11, "y": 0 },
+        { "label": "9", "row": 0, "col": 9, "x": 12, "y": 0.2 },
+        { "label": "0", "row": 0, "col": 10, "x": 13, "y": 0.5 },
+        { "label": "BSPC", "row": 0, "col": 11, "x": 14, "y": 0.5 },
+      
+        
+        
+        { "label": "TAB", "row": 1, "col": 0, "x": 0, "y": 1.5 },
+        { "label": "Q", "row": 1, "col": 1, "x": 1, "y": 1.5 },
+        { "label": "W", "row": 1, "col": 2, "x": 2, "y": 1.2 },
+        { "label": "E", "row": 1, "col": 3, "x": 3, "y": 1 },
+        { "label": "R", "row": 1, "col": 4, "x": 4, "y": 1.25 },
+        { "label": "T", "row": 1, "col": 5, "x": 5, "y": 1.25 },
+        
+        { "label": "Y", "row": 1, "col": 6, "x": 9, "y": 1.25 },
+        { "label": "U", "row": 1, "col": 7, "x": 10, "y": 1.25 },
+        { "label": "I", "row": 1, "col": 8, "x": 11, "y": 1 },
+        { "label": "O", "row": 1, "col": 9, "x": 12, "y": 1.2 },
+        { "label": "P", "row": 1, "col": 10, "x": 13, "y": 1.5 },
+        { "label": "BACKSLASH", "row": 1, "col": 11, "x": 14, "y": 1.5 },
+
+
+        
+        { "label": "CAPS", "row": 2, "col": 0, "x": 0, "y": 2.5 },
+        { "label": "A", "row": 2, "col": 1, "x": 1, "y": 2.5 },
+        { "label": "S", "row": 2, "col": 2, "x": 2, "y": 2.2 },
+        { "label": "D", "row": 2, "col": 3, "x": 3, "y": 2 },
+        { "label": "F", "row": 2, "col": 4, "x": 4, "y": 2.25 },
+        { "label": "G", "row": 2, "col": 5, "x": 5, "y": 2.25 },
+        
+        { "label": "H", "row": 2, "col": 6, "x": 9, "y": 2.25 },
+        { "label": "J", "row": 2, "col": 7, "x": 10, "y": 2.25 },
+        { "label": "K", "row": 2, "col": 8, "x": 11, "y": 2 },
+        { "label": "L", "row": 2, "col": 9, "x": 12, "y": 2.2 },
+        { "label": "SEMICOLON", "row": 2, "col": 10, "x": 13, "y": 2.5 },
+        { "label": "APOSTROPHE", "row": 2, "col": 11, "x": 14, "y": 2.5 },
+
+
+
+        { "label": "LSHIFT", "row": 3, "col": 0, "x": 0, "y": 3.5 },
+        { "label": "Z", "row": 3, "col": 1, "x": 1, "y": 3.5 },
+        { "label": "X", "row": 3, "col": 2, "x": 2, "y": 3.2 },
+        { "label": "C", "row": 3, "col": 3, "x": 3, "y": 3 },
+        { "label": "V", "row": 3, "col": 4, "x": 4, "y": 3.2 },
+        { "label": "B", "row": 3, "col": 5, "x": 5, "y": 3.25 },
+        
+        { "label": "N", "row": 3, "col": 6, "x": 9, "y": 3.25 },
+        { "label": "M", "row": 3, "col": 7, "x": 10, "y": 3.25 },
+        { "label": "COMMA", "row": 3, "col": 8, "x": 11, "y": 3 },
+        { "label": "PERIOD", "row": 3, "col": 9, "x": 12, "y": 3.2 },
+        { "label": "SLASH", "row": 3, "col": 10, "x": 13, "y": 3.5 },
+        { "label": "DEL", "row": 3, "col": 11, "x": 14, "y": 3.5 },
+
+
+
+        { "label": "Left_encoder", "row": 4, "col": 0, "x": 7.75, "y": 3.2, "w": 1.25 },
+        { "label": "LCTRL", "row": 4, "col": 1, "x": 2, "y": 4.2 },
+        { "label": "WIN", "row": 4, "col": 2, "x": 3, "y": 4 },
+        { "label": "LALT", "row": 4, "col": 3, "x": 4, "y": 4.25 },
+        { "label": "TO(1)", "row": 4, "col": 4, "x": 5.25, "y": 4.25, "r": 15 },
+        { "label": "SPACE", "row": 4, "col": 5, "x": 6.25, "y": 5, "r": -26 },
+        
+        { "label": "Right_encoder", "row": 4, "col": 6, "x": 6, "y": 3.2, "w": 1.25 },
+        { "label": "ENTER", "row": 4, "col": 7, "x": 8, "y": 4.55, "r": 26 },
+        { "label": "RGB_TOG", "row": 4, "col": 8, "x": 8.75, "y": 4.5, "r": -15 },
+        { "label": "KEYBOARD_PLAY", "row": 4, "col": 9, "x": 10, "y": 4.2 },
+        { "label": "KEYBOARD_PREVIOUS", "row": 4, "col": 10, "x": 11, "y": 4 },
+        { "label": "KEYBOARD_NEXT", "row": 4, "col": 11, "x": 12, "y": 4.2 }
+      
+      ]
+    }
+  }
+}
